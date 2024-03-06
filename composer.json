@@ -1,0 +1,9 @@
+{
+    "name": "bk/wp-jsonify",
+    "autoload": {
+        "psr-4": {
+            "BK\\JSONIFY\\": "src/"
+        }
+    },
+    "require": {}
+}
